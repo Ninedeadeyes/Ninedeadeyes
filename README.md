@@ -4,12 +4,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ninedeadeyes)](https://github.com/Ninedeadeyes/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ninedeadeye
-
-<!--
-**Ninedeadeyes/Ninedeadeyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ninedeadeyes&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ninedeadeyesa&layout=compact)
 
 
 Here are some ideas to get you started:
