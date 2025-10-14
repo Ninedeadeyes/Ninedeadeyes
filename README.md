@@ -1,7 +1,7 @@
 ## Welcome from  Nine Dead Eyes 👋
 
 
-![GitHub Stats](https://github-stats-card-generator.vercel.app/api/svg?username=Ninedeadeyes)
+![Top Repos](https://github-stats-card-generator.vercel.app/api/svg?username=YOUR_USERNAME&type=top-repos)
 
 <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Ninedeadeyes"/>
 
