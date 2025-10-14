@@ -4,6 +4,8 @@
 
 <img alt ="top langs"  align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ninedeadeyes&layout=compact"/>
 
+<br>
+
 ![stats](rpg%20stats.png)
 
 
