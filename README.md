@@ -4,7 +4,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ninedeadeyes)](https://github.com/Ninedeadeyes/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ninedeadeyes)](https://github.com/Ninedeadeyes/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ninedeadeyes&layout=compact)](https://github.com/Ninedeadeyes&layout=compact/github-readme-stats)
 
 
 Here are some ideas to get you started:
