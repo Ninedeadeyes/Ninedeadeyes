@@ -4,4 +4,5 @@
 
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ninedeadeyes&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=1800)
+![Ninedeadeyes' GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ninedeadeyes&show_icons=true&count_private=true&include_all_commits=true)
+
